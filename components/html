@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/20c5629a29.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="bg-container pt-4 pl-4 pb-4">
+        <div class="mr-4 bg-card pt-3">
+            <div class="profile-card pr-3">
+                <div class="circle2">
+                    <i class="fas fa-user icon1"></i>
+                </div>
+                <h1 class="words pt-3">PROFILE</h1>
+            </div>
+            <div class="profile-card">
+                <h1 class="heading">CAROLINE</h1>
+                <h1 class="heading">THOMPSON</h1>
+                <h1 class="words">ART DIRECTOR</h1>
+            </div>
+            <div class="vertical m-3"></div>
+            <div class="profile-card">
+                <h1 class="words">Advertising campaigns are my forte.</h1>
+                <h1 class="words">i have been in the industry for 6 years.</h1>
+                <h1 class="words">Address: Los Angeles, California</h1>
+                <h1 class="words">Phone: +(87) 834 2934 2344</h1>
+                <h1 class="words">Website: carolinethompson.com</h1>
+            </div>
+        </div>
+        <hr>
+        <div class="mr-4 bg-card pt-3">
+            <div class="profile-card pr-3">
+                <div class="circle2">
+                    <i class="fas fa-briefcase icon1 pr-3"></i>
+                </div>
+                <h1 class="words pt-3"> WORK</h1>
+            </div>
+            <div class="profile-card ">
+                <h1 class="words pb-2">2022-2023</h1>
+                <h1 class="words pb-2">2021-2022</h1>
+                <h1 class="words pb-2">2020-2021</h1>
+            </div>
+            <div class="profile-card">
+                <h1 class="heading-small">Creative minds graphic Design Studio Califormia * Senior Art Director</h1>
+                <h1 class="words">Generating and developing ideas to present to the client.</h1>
+                <h1 class="heading-small">Maga Giants Publishing and Studio * Junior Art Director</h1>
+                <h1 class="words">Working on design to produce an effective advertising campaign</h1>
+                <h1 class="heading-small">Big ideas inc * Assistant Art Director</h1>
+            </div>
+        </div>
+        <hr>
+        <div class="mr-4 bg-card pt-3">
+            <div class="profile-card pr-3">
+                <div class="circle2">
+                    <i class="fas fa-clipboard-list icon1 pr-3"></i>
+                </div>
+                <h1 class="words pt-3"> SKILLS & <br />AWARDS</h1>
+            </div>
+            <div class="profile-card mr-2">
+                <h1 class="words">UI/UL</h1>
+                <h1 class="words">Growth Marketing</h1>
+                <h1 class="words">Typography</h1>
+                <h1 class="words">Video Production</h1>
+                <h1 class="words">Print Design</h1>
+            </div>
+            <div class="profile-card ">
+                <div class="circle-card mb-2 pb-2">
+                    <div class="circle mr-2"></div>
+                    <div class="circle mr-2"> </div>
+                    <div class="circle mr-2"> </div>
+                </div>
+                <div class="circle-card mb-2 pb-2">
+                    <div class="circle mr-2"></div>
+                    <div class="circle mr-2"> </div>
+                    <div class="circle mr-2"> </div>
+                    <div class="circle mr-2"> </div>
+                    <div class="circle mr-2"> </div>
+                </div>
+                <div class="circle-card mb-2 pb-2">
+                    <div class="circle mr-2"></div>
+                    <div class="circle mr-2"> </div>
+                </div>
+                <div class="circle-card mb-2 pb-2">
+                    <div class="circle mr-2"></div>
+                    <div class="circle mr-2"> </div>
+                    <div class="circle mr-2"> </div>
+                    <div class="circle mr-2"> </div>
+                    <div class="circle mr-2"> </div>
+                </div>
+                <div class="circle-card mb-2 pb-2">
+                    <div class="circle mr-2"></div>
+                    <div class="circle mr-2"> </div>
+                    <div class="circle mr-2"> </div>
+                </div>
+            </div>
+            <div class="vertical1"></div>
+            <div class="profile-card ">
+                <h1 class="words"><span class="heading-small">2019 -> Suiton Design Awards</span></h1>
+                <p class="words">(10 Graphic Designer)</p>
+                <h1 class="words"><span class="heading-small">2019 -> Graphic London Award</span></h1>
+                <p class="words">(Winning Entry: Poster Design)</p>
+                <h1 class="words"><span class="heading-small">2019 -> LA Creatives Award</span></h1>
+                <p class="words">(Winning Entry: Ad Campaign)</p>
+            </div>
+        </div>
+        <hr>
+        <div class="mr-4 bg-card pt-3">
+            <div class="profile-card pr-3">
+                <div class="circle2">
+                    <i class="fa fa-lightbulb-o icon1"></i>
+                </div>
+                <h1 class="words center pt-3">INTERESTS</h1>
+            </div>
+            <div class="profile-card">
+                <div class="circle1">
+                    <i class="fas fa-desktop icon"></i>
+                </div>
+                <h1 class="words center">Internet</h1>
+            </div>
+            <div class="profile-card">
+                <div class="circle1">
+                    <i class="fas fa-pencil-alt icon "></i>
+                </div>
+                <h1 class="words center">Sketching</h1>
+            </div>
+            <div class="profile-card">
+                <div class="circle1">
+                    <i class="fas fa-tv icon"></i>
+                </div>
+                <h1 class="words center">Movies</h1>
+            </div>
+            <div class="profile-card">
+                <div class="circle1">
+                    <i class="fas fa-music icon"></i>
+                </div>
+                <h1 class="words center">Music</h1>
+            </div>
+
+        </div>
+        <hr>
+        <div class="mr-4 bg-card pt-3">
+            <div class="profile-card pr-3">
+                <div class="circle2">
+                    <i class="fas fa-book icon1"></i>
+                </div>
+                <h1 class="words pt-3"> Education</h1>
+            </div>
+            <div class="profile-card ">
+                <h1 class="words pb-3">2016-2020</h1>
+                <h1 class="words">2013-2016</h1>
+            </div>
+            <div class="profile-card ">
+                <h1 class="heading-small">Alabama Collage of design and Technology * Cum Laude</h1>
+                <h1 class="words">Bachelor of Fine Arts Major in Advertising</h1>
+                <h1 class="heading-small">Helena All Girls Senior High School * Valedication</h1>
+                <h1 class="words">President of Art and Design Club</h1>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
